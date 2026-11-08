@@ -1,6 +1,7 @@
 # 🚀 Criando um Gerador de QR Codes e Senhas para E-commerces com Node.js
 
-Um kit de utilidades em linha de comando (CLI) desenvolvido em **Node.js** com uma arquitetura altamente escalável e modular, voltado para automações e suporte a e-commerces, para a **Formação Node.js Fundamentals**
+Um kit de utilidades em linha de comando (CLI) desenvolvido em **Node.js** com uma arquitetura altamente escalável e modular, voltado para automações e suporte a e-commerces, para a **Formação Node.js Fundamentals**.
+Agradecimentos especiais ao instrutor **[Felipe Silva Aguiar](https://github.com/felipeAguiarCode)** por todo o conteúdo ensinado, estrutura fornecida e orientação durante a trilha de aprendizado de Node.js!
 
 ---
 
