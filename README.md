@@ -1,4 +1,4 @@
-# 🚀 CLI Utility Kit: QR Code & Password Generator
+# 🚀 Criando um Gerador de QR Codes e Senhas para E-commerces com Node.js
 
 Um kit de utilidades em linha de comando (CLI) desenvolvido em **Node.js** com uma arquitetura altamente escalável e modular, voltado para automações e suporte a e-commerces, para a **Formação Node.js Fundamentals**
 
@@ -6,10 +6,12 @@ Um kit de utilidades em linha de comando (CLI) desenvolvido em **Node.js** com u
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* **Node.js** (com suporte nativo a ES Modules e `--watch`)
-* **Chalk** (estilização de cores e logs no terminal)
-* **Prompt** (captura interativa de entradas do utilizador)
-* **Qrcode-terminal** (geração e exibição de QR Codes diretamente na consola)
+- **Node.js** (com suporte nativo a ES Modules e `--watch`)
+- **Chalk** (estilização de cores e logs no terminal)
+- **Prompt** (captura interativa de entradas do utilizador)
+- **Qrcode-terminal** (geração e exibição de QR Codes diretamente na consola)
+- **Git** (controle de versão e gestão de histórico)
+- **VS Code** (ambiente de desenvolvimento integrado)
 
 ---
 
