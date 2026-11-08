@@ -10,7 +10,7 @@ Agradecimentos especiais ao instrutor **[Felipe Silva Aguiar](https://github.com
 - **Node.js** (com suporte nativo a ES Modules e `--watch`)
 - **Chalk** (estilização de cores e logs no terminal)
 - **Prompt** (captura interativa de entradas do utilizador)
-- **Qrcode-terminal** (geração e exibição de QR Codes diretamente na consola)
+- **Qrcode-terminal** (Geração de Senhas e exibição de QR Codes diretamente no console, opçã 1 ou 2)
 - **Git** (controle de versão e gestão de histórico)
 - **VS Code** (ambiente de desenvolvimento integrado)
 
